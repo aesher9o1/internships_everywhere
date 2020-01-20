@@ -15,10 +15,11 @@
 4. Download [ngrok](https://ngrok.com/) and tunnel on 4000
 
 ### Install Chrome Extension
-1. go to chrome:extensions
-2. Turn developer mode on
-3. Load Unpack
-4. Point to extension folder
+1. Update **serverURL** in content_script.js
+2. go to chrome:extensions
+3. Turn developer mode on
+4. Load Unpack
+5. Point to extension folder
 
 ### Usage
 **Select text while pressing ALT key**
